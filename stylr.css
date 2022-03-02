@@ -1,0 +1,31 @@
+#Mymodal {
+    background-color: yellowgreen;
+
+    
+}
+
+body {
+    background-color: #49fb39;
+}
+
+h1 {
+    color: rgb(0, 153, 255);
+    background-color: rgb(255, 243, 195);
+}
+
+#timer_p{
+    float: right;
+}
+
+#draw_p {
+    color: red;
+}
+
+#score_p {
+    float: left;
+}
+
+p {
+    font-size: 20px;
+    font-weight: bold;
+}
